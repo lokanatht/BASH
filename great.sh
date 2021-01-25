@@ -1,5 +1,5 @@
 #!/bin/bash
-########### print greatest value ########
+
 a=$1
 b=$2
 c=$3
@@ -17,4 +17,3 @@ then
 else
     echo " D value $d is greater "
 fi
-echo " hai good morning "
