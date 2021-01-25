@@ -17,3 +17,4 @@ then
 else
     echo " D value $d is greater "
 fi
+echo " hai good morning "
